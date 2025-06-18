@@ -67,3 +67,14 @@ header button {
   margin: 5px;
   width: 75px;
 }
+
+.fav-meals li .clear {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  opacity: 0;
+  position: absolute;
+  top: -0.5rem;
+  right: -0.5rem;
+  font-size: 1.2rem;
+}
