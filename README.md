@@ -1,1 +1,1 @@
-Learning with Florin Pop.
+Learning with Florin Pop - course
